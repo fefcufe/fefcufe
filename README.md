@@ -38,7 +38,7 @@ Computação e Informação na UFRJ e sou estudante na @betrybe. Meu objetivo at
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
 **Contato:** 
   - email: fefcufe@gmail.com
   - linkedin: https://www.linkedin.com/in/fefcufe/
