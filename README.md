@@ -8,8 +8,8 @@ Me chamo <b> Fernanda Ferreira</b>.
 </p>
 <p align="left" >
 Sou do Rio de Janeiro/Rj e estou no processo de transição de carreira.<br />
-Sou formada em Ciências Biológicas mas atualmente estou cursando Engenharia de 
-Computação e Informação na UFRJ e sou estudante na @betrybe. Meu objetivo atual é atuar na área como <b> Desenvolvedora Web Full Stack </b>. <br> 
+Concluí o curso da Trybe de desenvolvimento web full stack e atualmente estou cursando Engenharia de 
+Software na Uninter. Meu objetivo é atuar na área de tecnologia como <b> Desenvolvedora Web Full Stack </b>. <br> 
 </p>
 <a href="https://www.linkedin.com/in/fefcufe/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
